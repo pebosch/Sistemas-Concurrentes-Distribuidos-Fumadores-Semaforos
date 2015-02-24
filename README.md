@@ -23,5 +23,5 @@ A continuación se describen los requisitos para que los fumadores puedan fumar 
 Diseñar e implementar una solución al problema en C/C++ usando cuatro hebras y los semáforos necesarios. La solución debe cumplir los requisitos incluidos en la descripción, y además debe:
 - Evitar interbloqueos entre las distintas hebras.
 - Producir mensajes en la salida estándar que permitan hacer un seguimiento de la actividad de las hebras:
-  - El estanquero debe indicar cuándo produce suministros y que suministros produce. Para establecer los ingredientes concretos (o directamente el fumador que podr´ıa usarlos), se debe usar también la función rand().
+  - El estanquero debe indicar cuándo produce suministros y que suministros produce. Para establecer los ingredientes concretos (o directamente el fumador que podría usarlos), se debe usar también la función rand().
   - Cada fumador debe indicar cuándo espera, que producto o productos espera, y cuándo comienza y finaliza de fumar.
